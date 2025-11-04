@@ -7,7 +7,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background:url(img/foto3.png) no-repeat;
+    background:url(./img/oficial.png) no-repeat;
     background-size:cover;
     background-position: center;
 }
